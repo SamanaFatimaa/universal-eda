@@ -184,4 +184,4 @@ Lastly, a subset of the cleaned data is extracted as a sample for further use. T
 
 Below is a snapshot of the NPAtlas Power BI dashboard, which provides interactive visualizations for exploring compound distributions, clusters, origins, and reference year insights:
 
-![NPAtlas Power BI Dashboard](dashboards\npatlas.png)
+![NPAtlas Dashboard](dashboards/npatlas.png)
